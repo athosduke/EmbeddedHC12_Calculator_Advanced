@@ -47,4 +47,4 @@ Ecalc> -2*123\
        Invalid input format\
 Ecalc> 73/15\
        73/15=4\
-Ecalc> \
+Ecalc> 
