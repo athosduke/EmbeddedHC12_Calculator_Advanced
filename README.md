@@ -13,7 +13,7 @@ In case of an invalid input format, print error message on the next line: 'Inval
 Keep 16bit internal binary number format, detect and flag overflow error\
 Use integer division and truncate any fraction
 
-# Display Example:
+# Display Example
 The HyperTerminal display should look something like the following:\
 Ecalc>\
 Ecalc> 123+4\
